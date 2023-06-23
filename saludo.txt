@@ -1,5 +1,6 @@
 Listado de comandos:
 Git init = preparar un unevo repositorio
+git remote add <nombre_corto> <url> = Para interactuar con un repositorio remoto en particular
 Git clone <url> = Clonar
 Git add <archivo> = Añadir un nuevo archivo
 Git commit -m <Mensaje> = Añadir un mensaje
