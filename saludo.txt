@@ -1,0 +1,6 @@
+Listado de comandos:
+Git init = preparar un unevo repositorio
+Git clone <url> = Clonar
+Git add <archivo> = Añadir un nuevo archivo
+Git commit -m <Mensaje> = Añadir un mensaje
+Git push origin <branch> = Especificar a que parte subir 
