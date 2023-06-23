@@ -7,3 +7,4 @@ Git commit -m <Mensaje> = Añadir un mensaje
 Git push origin <branch> = Especificar a que parte subir 
 git remote set-url origin <url> = Para cambiar la URL del repositorio remoto.
 git pull origin <branch> = Para actualizar su repositorio local con los cambios del repositorio remoto
+git remote -v = Si desea ver una lista de todos los repositorios remotos que ha agregado a su repositorio local
